@@ -1,5 +1,5 @@
 # shadertoy-to-unity
-Some shadertoy to Unity3d convertions created with 2021.3 and URP
+Some shadertoy to Unity3d conversions created with 2021.3 and URP
 
 ![1](https://cdn.akillimum.net/UserFiles/Shadertoy/1.png)
 ![2](https://cdn.akillimum.net/UserFiles/Shadertoy/2.png)
