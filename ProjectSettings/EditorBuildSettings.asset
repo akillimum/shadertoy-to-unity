@@ -8,4 +8,11 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: d1c3109bdb54ad54c8a2b2838528e640
+  - enabled: 0
+    path: Assets/URP/ShaderToy/Scenes and Shaders/Happy Jumping 3lsSzf.unity
+    guid: faca4ebd85f15624cbd38419403a6bad
+  - enabled: 1
+    path: Assets/URP/ShaderToy/Scenes and Shaders/Protean clouds 3l23Rh.unity
+    guid: bfd2afbc54e36524caa4d6047c096594
   m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
